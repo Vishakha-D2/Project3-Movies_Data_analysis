@@ -9,3 +9,10 @@ Generating comprehensive report including budget, revenue, profit and loss for s
 * Used functions like Vlookup, Index, Match, Xlookup etc.
 * Used advanced Excel functions like Power Query, Pivot Table, DAX.
 * Prepared reports on the basis of budget and revenue.
+
+## Contact :-
+LinkedIn : www.linkedin.com/in/vishakha-dongre-6b0126203
+
+Email : dvishakhadongre211@gmail.com
+
+Thank you!
