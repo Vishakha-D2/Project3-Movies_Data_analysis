@@ -1,0 +1,11 @@
+# Movies Data analysis
+Analysis of Movies Dataset In Excel using various advanced features.
+
+## Objective :
+Generating comprehensive report including budget, revenue, profit and loss for some Hollywood and Bollywood movies, utilizing advanced features in Excel such as Pivot Tables, Power Query and DAX to provide granular insights into revenue streams and expense categories.
+
+## Project Description :
+* Performed Data Cleaning, Data Exploration and Data Visualization
+* Used functions like Vlookup, Index, Match, Xlookup etc.
+* Used advanced Excel functions like Power Query, Pivot Table, DAX.
+* Prepared reports on the basis of budget and revenue.
